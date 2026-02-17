@@ -1,2 +1,2 @@
-# portfolio-bi-financeiro
+# portfolio-bi-claudia
 Projetos de BI com foco em análise de dados empresariais. Em constante desenvolvimento e aprimoramento técnico
